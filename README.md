@@ -1,0 +1,1 @@
+This is a dump of my former SVN repository at https://sourceforge.net/projects/z-tools. It also contains all the archives released by me. More recent and maintained version of zView can be found at https://github.com/th-otto/zview.
